@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h3 {
+  margin: 40px auto;
+}
+
+.header-table {
+  width: 70%;
+}
+.header-table td {
+  width: 25%;
+}
+
+.table {
+  width: 70%;
+  margin: 40px auto;
+}
+
+.form-control,
+.form-select {
+  text-align: center;
+  width: 80%;
+  margin: 20px auto;
+}
